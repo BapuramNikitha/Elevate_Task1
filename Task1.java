@@ -1,4 +1,3 @@
-import javax.xml.transform.Result;
 import java.util.*;
  public class Task1{
      public static double add(double a, double b){
@@ -65,5 +64,6 @@ import java.util.*;
          }
 
      }
+
 
  }
